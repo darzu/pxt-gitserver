@@ -1,0 +1,14 @@
+References:
+
+Shared workers:
+https://github.com/mdn/simple-shared-worker
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers#shared_workers
+
+Isomorphic git:
+https://github.com/isomorphic-git/isomorphic-git
+
+Browser filesystem:
+https://github.com/isomorphic-git/lightning-fs
+
+GitHub APIs:
+https://docs.github.com/en/free-pro-team@latest/rest/reference
