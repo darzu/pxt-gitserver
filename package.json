@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@isomorphic-git/lightning-fs": "^4.4.1",
     "isomorphic-git": "^1.8.0"
   }
 }
