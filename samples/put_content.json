@@ -1,0 +1,13 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/contents/.gitignore",
+    "method": "PUT",
+    "allowHttpErrors": true,
+    "data": {
+        "message": "Initialize empty repo",
+        "content": "IyBNYWtlQ29kZQpidWlsdApub2RlX21vZHVsZXMKeW90dGFfbW9kdWxlcwp5b3R0YV90YXJnZXRzCnB4dF9tb2R1bGVzCl9zaXRlCiouZGIKKi50Z3oKLmhlYWRlci5qc29uCi5zaW1zdGF0ZS5qc29uCg==",
+        "branch": "master"
+    },
+    "successCodes": [
+        201
+    ]
+}

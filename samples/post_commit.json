@@ -1,0 +1,17 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/git/commits",
+    "method": "POST",
+    "data": {
+        "message": "Initial files for MakeCode project",
+        "parents": [
+            "e32e71966617273d43538408d553466a63acdde9"
+        ],
+        "tree": "21b03d0b597c9656426cd11260a2b90a67e3038f"
+    },
+    "successCodes": [
+        200,
+        201,
+        202,
+        204
+    ]
+}

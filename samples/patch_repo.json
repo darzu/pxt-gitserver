@@ -1,0 +1,13 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git",
+    "method": "PATCH",
+    "data": {
+        "homepage": "http://darzu.io/arcade-test-git/"
+    },
+    "successCodes": [
+        200,
+        201,
+        202,
+        204
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/git/refs/heads/master",
+    "method": "PATCH",
+    "allowHttpErrors": true,
+    "data": {
+        "sha": "ee7cd8cfb529cd9828006000f541d221a2222314",
+        "force": false
+    }
+}

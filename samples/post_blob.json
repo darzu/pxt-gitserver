@@ -1,0 +1,14 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/git/blobs",
+    "method": "POST",
+    "data": {
+        "content": "{\n    \"compilerOptions\": {\n        \"target\": \"es5\",\n        \"noImplicitAny\": true,\n        \"outDir\": \"built\",\n        \"rootDir\": \".\"\n    },\n    \"exclude\": []\n}\n",
+        "encoding": "utf-8"
+    },
+    "successCodes": [
+        200,
+        201,
+        202,
+        204
+    ]
+}

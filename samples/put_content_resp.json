@@ -1,0 +1,46 @@
+{
+    "content": {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "d2196e7486f6f610d26c3e7204a9973773df6edc",
+        "size": 115,
+        "url": "https://api.github.com/repos/darzu/arcade-test-git/contents/.gitignore?ref=master",
+        "html_url": "https://github.com/darzu/arcade-test-git/blob/master/.gitignore",
+        "git_url": "https://api.github.com/repos/darzu/arcade-test-git/git/blobs/d2196e7486f6f610d26c3e7204a9973773df6edc",
+        "download_url": "https://raw.githubusercontent.com/darzu/arcade-test-git/master/.gitignore",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/darzu/arcade-test-git/contents/.gitignore?ref=master",
+            "git": "https://api.github.com/repos/darzu/arcade-test-git/git/blobs/d2196e7486f6f610d26c3e7204a9973773df6edc",
+            "html": "https://github.com/darzu/arcade-test-git/blob/master/.gitignore"
+        }
+    },
+    "commit": {
+        "sha": "e32e71966617273d43538408d553466a63acdde9",
+        "node_id": "MDY6Q29tbWl0MzI4NDU0NTQ5OmUzMmU3MTk2NjYxNzI3M2Q0MzUzODQwOGQ1NTM0NjZhNjNhY2RkZTk=",
+        "url": "https://api.github.com/repos/darzu/arcade-test-git/git/commits/e32e71966617273d43538408d553466a63acdde9",
+        "html_url": "https://github.com/darzu/arcade-test-git/commit/e32e71966617273d43538408d553466a63acdde9",
+        "author": {
+            "name": "Daryl Zuniga",
+            "email": "Daryl.Zuniga@gmail.com",
+            "date": "2021-01-10T18:45:31Z"
+        },
+        "committer": {
+            "name": "Daryl Zuniga",
+            "email": "Daryl.Zuniga@gmail.com",
+            "date": "2021-01-10T18:45:31Z"
+        },
+        "tree": {
+            "sha": "d6e97130be5214bff3f42a1786626ab90cf3d102",
+            "url": "https://api.github.com/repos/darzu/arcade-test-git/git/trees/d6e97130be5214bff3f42a1786626ab90cf3d102"
+        },
+        "message": "Initialize empty repo",
+        "parents": [],
+        "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/pages",
+    "status": null,
+    "cname": null,
+    "custom_404": false,
+    "html_url": "http://darzu.io/arcade-test-git/",
+    "source": {
+        "branch": "master",
+        "path": "/"
+    },
+    "public": true
+}

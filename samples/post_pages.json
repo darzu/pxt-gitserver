@@ -1,0 +1,19 @@
+{
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/pages",
+    "headers": {
+        "Accept": "application/vnd.github.switcheroo-preview+json"
+    },
+    "method": "POST",
+    "data": {
+        "source": {
+            "branch": "master",
+            "path": "/"
+        }
+    },
+    "successCodes": [
+        200,
+        201,
+        202,
+        204
+    ]
+}

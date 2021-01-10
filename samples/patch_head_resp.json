@@ -1,0 +1,10 @@
+{
+    "ref": "refs/heads/master",
+    "node_id": "MDM6UmVmMzI4NDU0NTQ5OnJlZnMvaGVhZHMvbWFzdGVy",
+    "url": "https://api.github.com/repos/darzu/arcade-test-git/git/refs/heads/master",
+    "object": {
+        "sha": "ee7cd8cfb529cd9828006000f541d221a2222314",
+        "type": "commit",
+        "url": "https://api.github.com/repos/darzu/arcade-test-git/git/commits/ee7cd8cfb529cd9828006000f541d221a2222314"
+    }
+}
